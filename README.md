@@ -1,4 +1,4 @@
-## License
+## License 🪪
 
 
 - Code: MIT License
