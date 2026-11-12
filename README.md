@@ -1,7 +1,9 @@
-## License 🪪
+## License  🪪
 
 
-- Code: MIT License
-- Wallpapers / Assets: CC BY-NC 4.0
+This project is licensed under CC BY 4.0
 
-This means anyone can use your wallpapers for free but can't sell them. They must give you credit.
+You can use, modify, and even sell these live wallpapers, 
+but you must give credit to [Your Name].
+
+License link: https://creativecommons.org/licenses/by/4.0/
